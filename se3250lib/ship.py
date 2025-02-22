@@ -31,8 +31,8 @@ ship_inv = {
         "op": 2.4,
         "dp": 2.1,
         "sp": 1.15,
-        "lmq": 21
-        "mmq": 24
+        "lmq": 21,
+        "mmq": 24,
         "age": 8,
         "training": 0.85,
     },
@@ -42,8 +42,8 @@ ship_inv = {
         "op": 3.2,
         "dp": 11,
         "sp": 1.27,
-        "lmq": 8
-        "mmq": 24
+        "lmq": 8,
+        "mmq": 24,
         "age": 6,
         "training": 0.88,
     },
@@ -53,8 +53,8 @@ ship_inv = {
         "op": 10.4,
         "dp": 9,
         "sp": 1.54,
-        "lmq": 45
-        "mmq": 45
+        "lmq": 45,
+        "mmq": 45,
         "age": 12,
         "training": 0.92,
     },
@@ -64,8 +64,8 @@ ship_inv = {
         "op": 13.8,
         "dp": 6.8,
         "sp": 1.73,
-        "lmq": 32
-        "mmq": 68
+        "lmq": 32,
+        "mmq": 68,
         "age": 18,
         "training": 0.88,
     },
