@@ -12,107 +12,93 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 wpn_inv = {
     "AGM-114L": {
         "type": 'AGM-114L',
-        "classtype": 'AGM',
+        "classtype": 'Short Range',
         "launch_reliability": 0.92,
-        "ascm_to_hit": 0.72,
         "sam_to_hit": 0.58,
+        "range": 4.7,
+        "spd": 870
+        "dmg": 10
     },
     "AGM-84E": {
         "type": 'AGM-84E',
-        "classtype": 'AGM',
+        "classtype": 'Short Range',
         "launch_reliability": 0.88,
-        "ascm_to_hit": 0.65,
         "sam_to_hit": 0.62,
+        "range": 4.7,
+        "spd": 460
+        "dmg": 10
     },
     "BGM-109": {
         "type": 'BGM-109',
-        "classtype": 'BGM',
+        "classtype": 'Long Range',
         "launch_reliability": 0.94,
-        "ascm_to_hit": 0.78,
         "sam_to_hit": 0.51,
+        "range": 900,
+        "spd": 500
+        "dmg": 10
     },
     "RIM-116": {
         "type": 'RIM-116',
-        "classtype": 'RIM',
+        "classtype": 'Short Range',
         "launch_reliability": 0.85,
-        "ascm_to_hit": 0.48,
         "sam_to_hit": 0.75,
+        "range": 5,
+        "spd": 1300
+        "dmg": 10
     },
     "RIM-66M": {
         "type": 'RIM-66M',
-        "classtype": 'RIM',
+        "classtype": 'Medium Range',
         "launch_reliability": 0.85,
-        "ascm_to_hit": 0.48,
         "sam_to_hit": 0.75,
+        "range": 90,
+        "spd": 2200
+        "dmg": 10
     },
     "RGM-84": {
         "type": 'RGM-84',
-        "classtype": 'RGM',
+        "classtype": 'Medium Range',
         "launch_reliability": 0.91,
-        "ascm_to_hit": 0.69,
         "sam_to_hit": 0.63,
+        "range": 75,
+        "spd": 460
+        "dmg": 10
     },
     "RGM-184A": {
         "type": 'RGM-184A',
-        "classtype": 'RGM',
+        "classtype": 'Medium Range',
         "launch_reliability": 0.93,
-        "ascm_to_hit": 0.74,
         "sam_to_hit": 0.59,
+        "range": 130,
+        "spd": 600
+        "dmg": 10
     },
-    "FL-300N": {
-        "type": 'FL-300N',
-        "classtype": 'FL',
-        "launch_reliability": 0.87,
-        "ascm_to_hit": 0.66,
-        "sam_to_hit": 0.71,
-    },
-    "HQ-10": {
-        "type": 'HQ-10',
-        "classtype": 'HQ',
-        "launch_reliability": 0.78,
-        "ascm_to_hit": 0.61,
-        "sam_to_hit": 0.67,
-    },
-    "HQ-16": {
-        "type": 'HQ-16',
-        "classtype": 'HQ',
-        "launch_reliability": 0.89,
-        "ascm_to_hit": 0.57,
-        "sam_to_hit": 0.73,
-    },
-    "YJ-18": {
-        "type": 'YJ-18',
-        "classtype": 'YJ',
-        "launch_reliability": 0.92,
-        "ascm_to_hit": 0.55,
-        "sam_to_hit": 0.68,
-    },
-    "YJ-12": {
-        "type": 'YJ-12',
-        "classtype": 'YJ',
-        "launch_reliability": 0.86,
-        "ascm_to_hit": 0.35,
-        "sam_to_hit": 0.68,
-    },
-    "YJ-83": {
-        "type": 'YJ-83',
-        "classtype": 'YJ',
-        "launch_reliability": 0.88,
-        "ascm_to_hit": 0.55,
-        "sam_to_hit": 0.78,
+        "HJ-10": {
+        "type": 'HJ-10',
+        "classtype": 'Short Range',
+        "launch_reliability": 1,
+        "sam_to_hit": 0.5,
+        "range": 5.0,
+        "spd": 290,
+        "dmg": 10,
+            
     },
     "Test-1": {
         "type": 'Test-1',
         "classtype": 'XX',
         "launch_reliability": 1,
-        "ascm_to_hit": 0.61,
         "sam_to_hit": 0.35,
+        "range": 10,
+        "spd": 300,
+        "dmg": 10,
     },
     "Test-2": {
         "type": 'Test-2',
         "classtype": 'XX',
         "launch_reliability": 1,
-        "ascm_to_hit": 0.61,
         "sam_to_hit": 0.35,
+        "range": 10,
+        "spd": 300,
+        "dmg": 10,
     }    
 }
