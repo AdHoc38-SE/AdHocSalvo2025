@@ -24,13 +24,19 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 uav_inv = {
     "UAV 1": {
         "type": 'UAV 1',
-        "dp": 2.1,
+        "dp": 1,
 	"ms": 4,
+	"spd": 170
     },
-    "UAV 2": {
-        "type": 'UAV 2',
-        "dp": 2.1,
-	"ms": 4,
+    "CAIG Wing Loong": {
+        "type": 'CAIG Wing Loong',
+        "dp": 1,
+	"ms": 8,
+	"spd": 150,
     },
     
 }
+
+
+
+# https://en.wikipedia.org/wiki/CAIG_Wing_Loong#Specifications_(Wing_Loong_I)
