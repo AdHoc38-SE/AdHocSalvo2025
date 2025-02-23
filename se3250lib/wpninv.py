@@ -79,7 +79,7 @@ wpn_inv = {
         "launch_reliability": 1,
         "sam_to_hit": 0.5,
         "range": 5.0,
-        "spd": 290,
+        "spd": 560,
         "dmg": 10,
             
     },
