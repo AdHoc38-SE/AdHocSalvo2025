@@ -22,14 +22,20 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 uav_inv = {
-    "UAV 1": {
-        "type": 'UAV 1',
+    "Mohajer-6": {
+        "type": 'Mohajer-6',
         "dp": 1,
 	"ms": 4,
-	"spd": 170
+	"spd": 108
     },
-    "CAIG Wing Loong": {
-        "type": 'CAIG Wing Loong',
+    "Shahed-136": {
+        "type": 'Shahed-136',
+        "dp": 1,
+	"ms": 1,
+	"spd": 100,
+    },
+    "CAIG Wing Loong II": {
+        "type": 'CAIG Wing Loong II',
         "dp": 1,
 	"ms": 8,
 	"spd": 150,
