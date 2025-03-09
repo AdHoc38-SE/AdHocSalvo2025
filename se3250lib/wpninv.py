@@ -16,7 +16,7 @@ wpn_inv = {
         "launch_reliability": 0.92,
         "sam_to_hit": 0.58,
         "range": 4.7,
-        "spd": 870,
+        "spd": 865,
         "dmg": 10,
     },
     "AGM-84E": {
@@ -34,7 +34,7 @@ wpn_inv = {
         "launch_reliability": 0.94,
         "sam_to_hit": 0.51,
         "range": 900,
-        "spd": 500,
+        "spd": 478,
         "dmg": 10,
     },
     "RIM-116": {
@@ -43,7 +43,7 @@ wpn_inv = {
         "launch_reliability": 0.85,
         "sam_to_hit": 0.75,
         "range": 5,
-        "spd": 1300,
+        "spd": 1350,
         "dmg": 10,
     },
     "RIM-66M": {
@@ -52,7 +52,7 @@ wpn_inv = {
         "launch_reliability": 0.85,
         "sam_to_hit": 0.75,
         "range": 90,
-        "spd": 2200,
+        "spd": 1430,
         "dmg": 10,
     },
     "RGM-84": {
@@ -61,7 +61,7 @@ wpn_inv = {
         "launch_reliability": 0.91,
         "sam_to_hit": 0.63,
         "range": 75,
-        "spd": 460,
+        "spd": 567,
         "dmg": 10,
     },
     "RGM-184A": {
@@ -70,7 +70,7 @@ wpn_inv = {
         "launch_reliability": 0.93,
         "sam_to_hit": 0.59,
         "range": 130,
-        "spd": 600,
+        "spd": 171,
         "dmg": 10,
     },
         "HJ-10": {
@@ -79,7 +79,7 @@ wpn_inv = {
         "launch_reliability": 1,
         "sam_to_hit": 0.5,
         "range": 5.0,
-        "spd": 485,
+        "spd": 124,
         "dmg": 10,
             
     },
@@ -89,7 +89,7 @@ wpn_inv = {
         "launch_reliability": 1,
         "sam_to_hit": 0.35,
         "range": 22.2,
-        "spd": 300,
+        "spd": 648,
         "dmg": 10,
     },    
 }
