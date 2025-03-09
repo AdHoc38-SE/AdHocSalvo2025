@@ -83,22 +83,13 @@ wpn_inv = {
         "dmg": 10,
             
     },
-    "Test-1": {
-        "type": 'Test-1',
-        "classtype": 'XX',
+    "HQ-16": {
+        "type": 'HQ-16',
+        "classtype": 'Medium Range',
         "launch_reliability": 1,
         "sam_to_hit": 0.35,
-        "range": 10,
+        "range": 22.2,
         "spd": 300,
         "dmg": 10,
-    },
-    "Test-2": {
-        "type": 'Test-2',
-        "classtype": 'XX',
-        "launch_reliability": 1,
-        "sam_to_hit": 0.35,
-        "range": 10,
-        "spd": 300,
-        "dmg": 10,
-    }    
+    },    
 }
