@@ -85,7 +85,7 @@ wpn_inv = {
     },
     "HQ-16": {
         "type": 'HQ-16',
-        "classtype": 'Medium Range',
+        "classtype": 'Short Range',
         "launch_reliability": 1,
         "sam_to_hit": 0.35,
         "range": 22.2,
