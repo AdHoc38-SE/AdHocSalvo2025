@@ -38,7 +38,7 @@ uav_inv = {
         "type": 'CAIG Wing Loong II',
         "dp": 1,
 	"ms": 8,
-	"spd": 150,
+	"spd": 200,
     },
     
 }
